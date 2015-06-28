@@ -1,0 +1,24 @@
+{
+  "name": "laravel-elixir-styles-with-url-replace",
+  "description": "An extension for laravel elixir styles task to replace relative url path with absolute path",
+  "version": "0.1.0",
+  "license": "MIT",
+  "author": {
+    "name": "Tom.Huang",
+    "email": "hzlhu.dargon@gmail.com",
+    "url": "https://github.com/nanjingboy"
+  },
+  "main": "index.js",
+  "keywords": [
+    "laravel",
+    "elixir",
+    "styles",
+    "url",
+    "replace",
+    "gulp"
+  ],
+  "dependencies": {
+    "mkdir-p": "0.0.6"
+  },
+  "repository": "https://github.com/nanjingboy/laravel-elixir-styles-with-url-replace"
+}
